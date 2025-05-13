@@ -116,4 +116,5 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 ***More Projects list is coming...!!!***
 
 ---
-
+🙏 If this list helped you prepare, consider giving this repository a ⭐ and follow me for more!  
+Feel free to fork it, share it, and tag me if you build something amazing with it 💡🚀
